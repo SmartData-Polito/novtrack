@@ -1,0 +1,11 @@
+hdbscan
+pyarrow
+pandas
+polars
+numpy
+gensim
+scikit-learn
+dpkt
+matplotlib
+seaborn
+fastplot
